@@ -59,7 +59,6 @@ platforms/
 plugins/
 plugins/android.json
 plugins/ios.json
-www/
 
 # Trash data
 $RECYCLE.BIN/
