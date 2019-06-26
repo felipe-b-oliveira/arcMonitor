@@ -5,4 +5,6 @@ Front de App básico usando o Ionic Creator
 Interface do aplicativo usando o Ionic Creator.
 
 Tela Inicial:
+
 ![alt text](screenshots/arcMonitor.png)
+
